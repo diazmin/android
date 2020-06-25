@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="n1"> </string>
+    <string name="n2"></string>
+    <string name="res"></string>
+    <string name="rbSumar">Sumar</string>
+    <string name="rbRestar">Restar</string>
+    <string name="rbMult">Multiplicar</string>
+    <string name="rbDiv">Dividir</string>
+</resources>

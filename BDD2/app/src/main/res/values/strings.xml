@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BDD</string>
+    <string name="b1">Alta</string>
+    <string name="b2">Consulta por código</string>
+    <string name="b3">Consulta por descripcion</string>
+    <string name="b4">Baja por código</string>
+    <string name="b5">Modificar</string>
+    <string name="codigo">Codigo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="precio">Precio</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChangeActivity</string>
+    <string name="Cantidad">Selecciona la cantidad:</string>
+    <string name="ConvertirTo">Convertir a:</string>
+    <string name="select">Selecciona una cantidad</string>
+    <string name="dolar">Dolar</string>
+
+    <string name="euro">Euro</string>
+    <string name="yen">Yen</string>
+    <string name="convertir">Convertir</string>
+    <string-array name="cantidades">
+        <item>1</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+
+    <string name="volver">Volver</string>
+    <string name="resultado">""</string>
+
+
+</resources>

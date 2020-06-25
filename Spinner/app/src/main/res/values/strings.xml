@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="consumoAnt">Consumo anterior</string>
+    <string name="consumoActual">Consumo actual</string>
+    <string name="tarifa">Tarifa</string>
+    <string name="total_pagar">Total a pagar</string>
+
+    <string name="total_prompt">Selecciona una tarifa</string>
+
+    <string-array name="tarifa_prompts">
+        <item>Selecciona una tarifa</item>
+        <item>1</item>
+        <item>1A</item>
+        <item>1B</item>
+
+    </string-array>
+
+</resources>
